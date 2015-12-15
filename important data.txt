@@ -1,9 +1,9 @@
 
 ver 0.0.1 dated 14-Dec-2015
 only MQTT-server client app is present in Lenova Fedora /var/www/html/ionicWork/example/
-WifiWizard getting wifi lists App is present in -----------------?(Desk/Dell windows?/dell linux?/lenova linux?)
-CC3200 wifi socket server Energia ino file present in -------------(Desk/Dell windows)?
-CC3200 wifi socket client hybrid(socketsForCordova) is present in Desktop (356384/hybridWork/sockets?---not sure)?
-Latest CC3200 energia code present in dell lap? or Desktop(SESA) or G-Drive?
+WifiWizard getting wifi lists App is present in SESA/yash/alarm/platform/android/assets/www/
+CC3200 wifi socket server Energia ino file present in SESA/Documents/energia/sockets
+CC3200 wifi socket client hybrid(socketsForCordova) is present in Desktop Dell/linux/var/www/html/ionicWork/sockets/
 CC3200 , ARNRF PCB(Dirty PCB,Eagel )files present in Lenova or Dell ?
-
+ServerSockets app present in SESA/hybridMix/serverSockets
+Latest CC3200 firmware energia code present in dell lap? or Desktop(SESA) or G-Drive?
