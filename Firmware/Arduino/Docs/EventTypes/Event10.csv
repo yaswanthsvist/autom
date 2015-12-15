@@ -1,0 +1,3 @@
+master->client - turn Off perticular switch node,~implemented,important,,,,,
+Bit0,Bit1,Bit2,Bit3,Bit4,Bit5,Bit6,Bit7
+0,Destination address(1-254),10,(0-7),-,-,-,-
