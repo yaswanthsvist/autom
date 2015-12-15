@@ -1,0 +1,3 @@
+client-> master - all switch states,,,,,,,
+Bit0,Bit1,Bit2,Bit3,Bit4,Bit5,Bit6,Bit7
+Destination address(1-254),0,1,SwitchByte(0-255),-,-,-,-
