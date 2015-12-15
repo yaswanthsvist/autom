@@ -1,4 +1,3 @@
-master->client - Change all switch states
-
+master->client - Change all switch states,,,,,,,
 Bit0,Bit1,Bit2,Bit3,Bit4,Bit5,Bit6,Bit7
 0,Destination address,0,SwitchByte,-,-,-,-
